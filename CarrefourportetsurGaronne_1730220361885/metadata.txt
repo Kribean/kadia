@@ -1,0 +1,4 @@
+magazin: Carrefour Portet sur Garonne 
+date: 1730220361885
+latitude:43.5332925
+longitude:1.4067864
