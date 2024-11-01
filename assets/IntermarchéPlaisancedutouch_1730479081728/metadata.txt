@@ -1,0 +1,4 @@
+magazin: Intermarché Plaisance du touch
+date: 1730479081728
+latitude:43.5688769
+longitude:1.3088094
