@@ -1,0 +1,4 @@
+magazin: Auchan balma 
+date: 1730541573217
+latitude:43.6319423
+longitude:1.4848979
