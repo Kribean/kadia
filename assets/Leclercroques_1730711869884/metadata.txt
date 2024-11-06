@@ -1,0 +1,4 @@
+magazin: Lecelerc roques
+date: 1730711869884
+latitude:43.513513513513516
+longitude:1.3664845489110617
