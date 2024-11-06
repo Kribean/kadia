@@ -1,0 +1,4 @@
+magazin: Carrefour city jean jaures
+date: 1730739609696
+latitude:43.605446
+longitude:1.4478488
