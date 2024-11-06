@@ -1,0 +1,4 @@
+magazin: Carrefour city palais de justice 
+date: 1730740279831
+latitude:43.5919803
+longitude:1.4448282
